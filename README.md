@@ -1,4 +1,4 @@
- RestPOS - ระบบจัดการร้านอาหาร (Restaurant POS System)
+ RestPOS - ระบบจัดการร้านอาหาร (Restaurant POS System) ฟรี สำหรับคนไทยทุกคน
 
  Google Drive .exe : https://drive.google.com/drive/folders/1pGFQxa6lJQextcqXPXXVK01Qg1gEFHZX
 
