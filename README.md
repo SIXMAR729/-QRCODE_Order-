@@ -1,5 +1,7 @@
  RestPOS - ระบบจัดการร้านอาหาร (Restaurant POS System)
 
+ Google Drive .exe : https://drive.google.com/drive/folders/1pGFQxa6lJQextcqXPXXVK01Qg1gEFHZX
+
 RestPOS คือระบบบริหารจัดการร้านอาหารแบบครบวงจร (All-in-One) ที่ออกแบบมาเพื่อร้านอาหารขนาดเล็ก-กลาง (SME) โดยเฉพาะ ทำงานได้แบบ Offline 100% บนคอมพิวเตอร์เพียงเครื่องเดียว หรือเชื่อมต่อผ่านเครือข่ายภายในร้าน (Local Network) เพื่อใช้งานหลายจุด
 
 ✨ ฟีเจอร์เด่น (Key Features)
